@@ -1,7 +1,6 @@
 
 import controller from './about.controller';
 
-
 let aboutComponent = function(){
 	return {
 		templateUrl:'app/components/about/about.html',
