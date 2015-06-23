@@ -1,0 +1,11 @@
+{
+  "version": "1.5.0",
+  "filesGlob": [
+    "./typings/*.d.ts"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "noResolve": false,
+    "module": "commonjs"
+  }
+}
