@@ -8,6 +8,6 @@ To get started run
 and then
 >webpack-dev-server
     
-Jump over the the URL
+Jump over the URL
 
 >http://localhost:8080/
